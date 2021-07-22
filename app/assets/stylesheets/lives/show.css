@@ -1,3 +1,30 @@
 .content {
+  height: 100vh;
   display: flex;
+}
+
+.main-content {
+  background-color: aqua;
+  width: 80vw;
+}
+
+.live-viewer {
+  background-color: blue;
+  height: 80vh;
+}
+
+.right-content {
+  background-color: black;
+  height: 100vh;
+  width: 20vw;
+}
+
+.comment-viewer {
+  background-color: white;
+  height: calc(100vh - 100px);
+}
+
+.comment-form {
+  background-color: tomato;
+  height: 100px;
 }
