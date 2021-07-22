@@ -1,24 +1,28 @@
-# README
+## アプリケーション名
+live-test（仮題）
+## アプリケーション概要
+ライブ配信機能と録画機能を利用したリモート授業等の少人数向けのストリーミング、動画投稿アプリです
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 利用方法
+配信する場合・・・ユーザー登録し、運営から配信権限を受け取り外部ツールを使用し配信を行います。
+視聴する場合・・・視聴にはユーザー登録は不要です。コメント、録画のブックマークにはユーザー登録が必要です。
 
-Things you may want to cover:
+### Basic認証
+id: admin
+password: 2222
 
-* Ruby version
+## 目指した課題解決
+アプリを中心としたプラットフォーム上にリモート授業の配信、スケジュール、録画が残ることで、生徒側は円滑に授業の移行や復習を行うことができます。
+授業を行う側はスケジュールの変更等をアプリ上で通知することができたり、コメントやブックマークなどから自分の授業に対するフィードバックを受けることができます。
+## 要件
+スプレッドシートにまとめた要件定義を記述。
+## 実装した機能についての画像
+未実装です　
 
-* System dependencies
+## 実装予定の機能
+クリップ機能
 
-* Configuration
+## データベース設計
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ローカルでの動作方法
+未実装です
